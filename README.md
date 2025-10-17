@@ -269,7 +269,7 @@ pytest -v
 | Métrique | Cible |
 |----------|-------|
 | MAE (test) | < 7 minutes |
-| R² (test) | > 0.81 |
+| R² (test) | > 0.78 |
 
 ---
 
@@ -291,6 +291,4 @@ pytest -v
 - Data Scientist Junior : Saida Aourras
 
 ---
-
 **Dernière mise à jour** : Octobre 2025  
-**Statut du projet** : En développement 🚧
